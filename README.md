@@ -6,7 +6,7 @@
 |____/|_____\___/ \____|\____|___|_|     |_|  
 ```
 
-Turn any sentence into a slug.
+Turn any sentence into a [slug](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 
 ```
 $ sluggify This Is The End
